@@ -27,8 +27,6 @@ public class Main {
 //        machine2.start();
         System.out.println("Using Git");
         System.out.println("First git init");
-        System.out.println("2nd git add . files ");
-        System.out.println("3rd git commit to add all files");
 
     }
 }
